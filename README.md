@@ -1,1 +1,2 @@
 # Weather-App
+This is a Weather Web Application built using HTML, CSS, and JavaScript. The app fetches real-time weather data from a public Weather API based on the user's current location or a manually entered city. It displays current weather conditions such as temperature, humidity, and weather descriptions in a clean and responsive interface. This project helped me strengthen my skills in working with APIs, handling asynchronous JavaScript, and designing interactive user interfaces.
